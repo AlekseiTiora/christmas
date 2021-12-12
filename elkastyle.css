@@ -1,0 +1,26 @@
+body{
+    background-image:url("img/fon.jpg");
+}
+
+canvas {
+    border: 2px solid #000000;
+    margin: 250px;
+
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    border-style:solid;
+    background: -webkit-linear-gradient(#ff0694, #00ffe4);
+
+}
+
+#start{
+    background: #0caf97;
+    opacity: 95%;
+    margin: auto;
+    width: 1000px;
+    height: 900px;
+}
+
+
